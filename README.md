@@ -1,44 +1,64 @@
 # Hi there 👋, I'm Sujan Kumar Mitra
-- Current pursuing B. Tech in CSE from MAKAUT
-- Interested in backend development and designing systems
-- Passionate to learn new concepts and technologies
+- Final Year B.Tech (CSE) from MAKAUT
+- Interests:
+    - Problem Solving
+    - Backend Development
+    - REST APIs
+    - Microservices
 
-### Connect with me
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=007396)](https://www.linkedin.com/in/sujan-kumar-mitra-1b6913174/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto://mitrakumarsujan@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/sujan-kumar-mitra"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="mailto://mitrakumarsujan@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
+</p>
 
-### Languages
+## Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-<!-- ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=00599C) -->
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40" alt="TypeScript"/>
+<img src="https://i1.pngguru.com/preview/768/498/436/sql-server-logo-data-database-microsoft-azure-sql-database-programming-language-table-database-transaction-microsoft-sql-server-png-clipart.jpg" width="40" height="40" alt="SQL"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png" width="40" height="40"/>
+</p>
 
-### Tools & Technologies
+## Tools & Technologies
 
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNTYgMjU2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cG9seWdvbiBmaWxsPSIjNTk2NjZDIiBwb2ludHM9IjEwMy40LDg1LjI2OCA1NC4xNTEsMTcwLjY2MSA1NC4xNTEsMTcwLjY2MSA0Ljk0LDg1LjI2OSA1NC4xNywwICAiLz4KCTxwb2x5Z29uIGZpbGw9IiNCQ0FFNzkiIHBvaW50cz0iMTUyLjY2LDAuMDAzIDU0LjE5OCwwLjAwMyAxMDMuNDMsODUuMjcyIDIwMS45MTYsODUuMjY5ICAiLz4KCTxwb2x5Z29uIGZpbGw9IiM1OTY2NkMiIHBvaW50cz0iMTUyLjYzMywxNzAuNzAzIDIwMS44OCw4NS4zMDkgMjAxLjg4LDg1LjMwOSAyNTEuMDkyLDE3MC43MDMgMjAxLjg2MSwyNTUuOTcxICAiLz4KCTxwb2x5Z29uIGZpbGw9IiNCQ0FFNzkiIHBvaW50cz0iMTAzLjM3NCwyNTUuOTY4IDIwMS44MzUsMjU1Ljk2OCAxNTIuNjA0LDE3MC42OTcgNTQuMTE3LDE3MC43MDMgICIvPgo8L2c+Cjwvc3ZnPg==)
-![Spring-Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABmJLR0QA/wD/AP+gvaeTAAAEoUlEQVR42u2d0W0cMQxEtzEjV1CcGlKTr4ArLcEZcT7iLCxpJc5QfAvs750kDodDLSkdh/j5fr/dftxvP1/v335VfJ9zf67BUe15Tvr17eVR1fCf3reXRwkgYPjCQHg3PkZuercDAV4/xgYYHxA8oH3CQd5wgAHnvCmNXzm/X7FfAPUTCm4IPwQh3g8L4P2wAMIPQUjaR1qI98MCCD8EIcIPQYj3wwJ4PyyA8EMQkvaNl11lBjPeP4kys+qZcBZIuVCN8TIrCEIFYUbh17NAKYVtlCDM6iEVxG0IC2RN+0pkN6tZoIpSzjzPpYJQje53wwwy0HIA/BmfA3j28v4TWusFwrK5noxPqZWms4BqMl+Jmh5DLQFAQ8xVaaapglAxidYJtI5tBQCshfMsQRju/Z0dsrON1fybnQvs7EQ+Ax9ArQoAI3E2HARXWSBa+I0gNhMAFCC4JAgz0FWWEKAEgb33X4lVShEYMW4JC0QKvysU1bOIqjTQRVx3gTUMnYE0upL9RpkgFAStax05qNGFGwHo6vAXOZel6x01oGgVHaF/hkHgwgJhwm+Q+q+AM0oAr0xllzueM/VfZaZIgyjmd3ktnL1/xuJEe2QvCKSZl7PwmwXM8P8cAboqLZTTT4BXKEDXK3RDt94/AOq86TMTmCpD9DJe+BZxBe+X1gR2hoJIFtBQjsgTlEboYYFIRg6lmx76XwFMqReKwW8BAHVOrKbhFVVOeQDQ4QGrKFANADUDSgHgMHkHIeYWBiwBsHNnUFeD6k4AcEC+AwDcwoAdAFZO2iIX79BCAGDT5tB6ADBBPQAQAcBBADoBwEkIAgABAFzWAwAAAAAAAAAAAAAAsQWaAEA04dZxrP4eXy4LcNr9aln81RVS7ASKJ33GBO+eH1AeBwCMOmT+Hutm2AxbEgDH5jePlf0a2CUEN76BpGw9gGM5lPsJnmVrAncNA6VrAp02YjLQ/5YA6PGA7a6ioy8gx8maDt6/bWeQujcwi/eH9gY6C6FdWMC6O9jdG7KzgPX5ABIAmB+dIj8KJzokSzZdRGcEAXSDAyKynKJVZX46ihWcE+hsfNX2t3Rhs5y3v9VJoWdO6HopVCYQZJvLp/FmEYR2IOi848ghwzll3wy5slWKmOi+gKYdWZUYuXq7Vfi4L3i9msG+dLisFx2GFHVOMLw0fLUwlpKaZt12ueKYt1ljU2qX5jmkGGQjK4xW/X5UDB8TH6lw7dEranE19d7bE1D87z0WPuqspXtN1cWZK0EQ/aiNPwzurJsrGH+8EMevRHvWLdjBj8tn7MuhzWLHbaIKr+L105zHqSBjtVDbaa2mhlC3jy9uQIjqLJaFTteyLDUQLA2/SkA79+w9xxapEUJbyp0cI0sl7gowuBt9StqXmQVaDoLo3SnMWIy6PCzu3L9frQtpK0HIG7hzCgsU9X5YAO9PLQg5fKpgWljhle2EwQLshiIIq38qRxBSMAMLVC+UgQUol0MQUhhDWrh92gcL4P0IQoQfghDhBwvg/bAA3o8gRPiRFpZO+wgFUD+CEOEHCDA+4QDaz95Ll/3QSYCA4XMCofJ+QXRT67/PbwbN6ewVMmnQAAAAAElFTkSuQmCC)
-![Spring-Cloud](https://img.shields.io/badge/-Spring%20Cloud-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNDQuMTEiIGhlaWdodD0iMTYxLjQ0IiB2aWV3Qm94PSIwIDAgMjQ0LjExIDE2MS40NCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6Izc3YmMxZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPkFzc2V0IDE8L3RpdGxlPjxwYXRoIGNsYXNzPSJhIiBkPSJNMjA4LjM2LDYxYy0yLjI4LTE1LjI5LTctMzIuNTQtMTMuMzktNTEuNjRBNzUuNzksNzUuNzksMCwwLDEsMTg2LjE5LDI1LDgyLjM3LDgyLjM3LDAsMCwwLDU2LjQyLDQwLjEsNTQuNTcsNTQuNTcsMCwwLDEsOTAuMDksNTQuMjVhNTYuOTEsNTYuOTEsMCwwLDAtMzEuODEtOS4zOCw1OC4yOCw1OC4yOCwwLDAsMCwwLDExNi41N2gxMzQuNEE1MS40Miw1MS40MiwwLDAsMCwyMDguMzYsNjFaTTgyLjc5LDE0My40N2E3LDcsMCwxLDEtMS05LjkxQTcsNywwLDAsMSw4Mi43OSwxNDMuNDdabTExMS44My0yNC42OGMtMjAuMzQsMjcuMDktNjMuNzYsMTgtOTEuNjEsMTkuMjYsMCwwLTQuOTMuMjgtOS45LDEuMSwwLDAsMS44OC0uOCw0LjI4LTEuNjMsMTkuNTUtNi43NiwyOC44LTguMTIsNDAuNjktMTQuMjMsMjIuMzItMTEuNDQsNDQuNTUtMzYuMzUsNDkuMDYtNjIuMjMtOC41LDI0LjktMzQuMzUsNDYuMzItNTcuODgsNTVDMTEzLjE0LDEyMiw4NCwxMjcuOCw4NCwxMjcuODFsLTEuMTgtLjYzQzYzLDExNy41NCw2Mi40NSw3NC42Myw5OC40Myw2MC44YzE1Ljc4LTYuMDcsMzAuODctMi43Myw0Ny45Mi02LjgsMTguMTktNC4zMiwzOS4yNS0xOCw0Ny44MS0zNS43OUMyMDMuNzcsNDYuNjksMjE1LjMsOTEuMjQsMTk0LjYyLDExOC43OVoiLz48L3N2Zz4=)
-![Maven](https://img.shields.io/badge/-Maven-000?&logo=apache-maven)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=eclipse-ide&logoColor=purple)
-![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ--IDEA-000?logo=intellij-idea&logoColor=purple)
-![VS-Code](https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=blue)
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/140913331/original/8991626b418d9673ae035599f8578a9d816ea6c5/spring-java-rest-api-jpa-elastic-search-sql.jpg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/spring-cloud-function.svg" alt="Spring Cloud" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/4201559?s=280&v=4" alt="Reactor" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/mockito/images/a5f71b78-c946-4b8e-9c93-ad00deef2792.svg" alt="Junit Mockito" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+<img src="https://cdn.confluent.io/wp-content/uploads/kafka-icon-blue-300x300.jpg" alt="Kafka" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Kafka" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://seekicon.com/free-icon-download/eclipse_2.svg" alt="Eclipse" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
+## Stats
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=SujanKumarMitra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanKumarMitra&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-<img src="https://github-profile-trophy.vercel.app/?username=SujanKumarMitra&theme=graywhite&column=6&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SujanKumarMitra&show_icons=true&locale=en&theme=radical" alt="SujanKumarMitra" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujanKumarMitra" alt="SujanKumarMitra"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SujanKumarMitra&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="SujanKumarMitra" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SujanKumarMitra&theme=graywhite&column=4&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+</p>
