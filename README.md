@@ -10,7 +10,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-kumar-mitra"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
-<a href="mailto://mitrakumarsujan@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
 </p>
 
 ## Languages
